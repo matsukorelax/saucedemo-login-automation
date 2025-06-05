@@ -1,0 +1,21 @@
+﻿2025-06-05 23:42:54,621 - INFO - ====== WebDriver manager ======
+2025-06-05 23:42:56,734 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-05 23:42:56,831 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-05 23:42:56,930 - INFO - Driver [C:\Users\Jhon\.wdm\drivers\chromedriver\win64\137.0.7151.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-05 23:43:06,080 - DEBUG - ここまで来た
+2025-06-05 23:43:06,096 - INFO - ログイン成功
+2025-06-05 23:43:08,321 - INFO - ====== WebDriver manager ======
+2025-06-05 23:43:10,408 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-05 23:43:10,503 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-05 23:43:10,596 - INFO - Driver [C:\Users\Jhon\.wdm\drivers\chromedriver\win64\137.0.7151.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-05 23:43:12,431 - INFO - ログイン失敗挙動
+2025-06-05 23:43:14,650 - INFO - ====== WebDriver manager ======
+2025-06-05 23:43:16,705 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-05 23:43:16,796 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-05 23:43:16,887 - INFO - Driver [C:\Users\Jhon\.wdm\drivers\chromedriver\win64\137.0.7151.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-05 23:43:18,742 - INFO - ログイン失敗挙動
+2025-06-05 23:43:20,929 - INFO - ====== WebDriver manager ======
+2025-06-05 23:43:22,979 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-05 23:43:23,074 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-05 23:43:23,166 - INFO - Driver [C:\Users\Jhon\.wdm\drivers\chromedriver\win64\137.0.7151.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-05 23:43:24,920 - INFO - ログイン失敗挙動

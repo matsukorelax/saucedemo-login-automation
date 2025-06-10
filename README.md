@@ -15,7 +15,7 @@ Selenium + pytest を使ったログイン機能の自動テスト。
 pytest -s test_login.py
 
 🔍 必要環境
-Python 3.10+
+Python 3.10 以上 (3.13で動作確認)
 
 Chromeブラウザ
 
